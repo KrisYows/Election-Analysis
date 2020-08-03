@@ -21,7 +21,7 @@ For this analysis, we conducted an election audit of the tabulated results for a
 
   - Diana DeGette was the election winner, with 73.8% of the vote and 272,892 votes 
 
-  ![](resources/Screen Shot 2020-08-02 at 5.22.17 PM.png)
-
-# Election Audit Summary
+[Election Analysis txt](https://github.com/KrisYows/Election-Analysis/blob/master/Resources/Screen%20Shot%202020-08-02%20at%205.22.17%20PM.png)
+ 
+ # Election Audit Summary
 This script can easily be used for any election with only minor modifications, due to the fact that the code already contains the means for calculating common election data points, such as voter turnout by county and number of votes per candidate. One example of a modification you could make to the script would be to add in a path that would connect the results directly to an online polling website. Additionally, with the proper programming skills you could also implement a program that would automatically update the election results as the votes are coming in. 
